@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>정민이의 김찌스토리</title>
+</head>
+<body style="background-color: pink;">
+    <header>
+        <h1>skrrrrrrrrr</h1>
+        <nav>
+            <ul>
+                <li><a href="#recipe">레시피</a></li>
+
+<a href="https://eapp.emart.com/webapp/recipe/66">김찌</a>
+                <li><a href="#ingredients">재료</a></li>
+                <li><a href="#reviews">리뷰</a></li>
+<a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwoman.chosun.com%2Fnews%2FarticleView.html%3Fidxno%3D64480&psig=AOvVaw2GvY2KyLR9M0vR4_XRki6V&ust=1718514081066000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCPj-hv7p3IYDFQAAAAAdAAAAABAE
+">정민</a>
+
+  <img src="images/myphoto.jpg" alt="https://eapp.emart.com/webapp/recipe/66">            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="recipe">
+            <h2>김치찌개 레시피</h2>
+            <p>여기에 김치찌개의 레시피를 작성하세요.</p>
+        </section>
+
+        <section id="ingredients">
+            <h2>재료</h2>
+            <ul>
+                <li>김치</li>
+                <li>두부</li>
+                <li>돼지고기</li>
+                <li>고춧가루</li>
+                <!-- 필요한 재료를 추가하세요 -->
+            </ul>
+        </section>
+
+        <section id="reviews">
+            <h2>사용자 리뷰</h2>
+            <p>사용자들이 남긴 리뷰를 표시하세요.</p>
+        </section>
+맛있당
+집에서 먹느 김치찌개 같아요ㅎ.
+김치에서 쉰맛이 나네요;;
+    </main>
+
+    <footer>
+        <p>&copy; 2024 김치찌개 사이트. 모든 권리 보유.</p>
+    </footer>
+</body>
